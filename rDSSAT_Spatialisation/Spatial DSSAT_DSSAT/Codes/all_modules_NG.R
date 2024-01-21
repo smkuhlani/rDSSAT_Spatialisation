@@ -1,0 +1,16 @@
+source("D:/OneDrive - CGIAR/Personal/Personalresearch/Colleagues/Abellac/DSSAT_Spatialisation/PDSSAT/Nigeria/Codes/Fields.R")
+source("D:/OneDrive - CGIAR/Personal/Personalresearch/Colleagues/Abellac/DSSAT_Spatialisation/PDSSAT/Nigeria/Codes/Cultivar.R")
+source("D:/OneDrive - CGIAR/Personal/Personalresearch/Colleagues/Abellac/DSSAT_Spatialisation/PDSSAT/Nigeria/Codes/Initial_Conditions.R")
+source("D:/OneDrive - CGIAR/Personal/Personalresearch/Colleagues/Abellac/DSSAT_Spatialisation/PDSSAT/Nigeria/Codes/Planting_Details.R") 
+source("D:/OneDrive - CGIAR/Personal/Personalresearch/Colleagues/Abellac/DSSAT_Spatialisation/PDSSAT/Nigeria/Codes/fertlizer.R")
+source("D:/OneDrive - CGIAR/Personal/Personalresearch/Colleagues/Abellac/DSSAT_Spatialisation/PDSSAT/Nigeria/Codes/residue.R")
+source("D:/OneDrive - CGIAR/Personal/Personalresearch/Colleagues/Abellac/DSSAT_Spatialisation/PDSSAT/Nigeria/Codes/Irrigation.R")
+source("D:/OneDrive - CGIAR/Personal/Personalresearch/Colleagues/Abellac/DSSAT_Spatialisation/PDSSAT/Nigeria/Codes/Soil_Analysis.R")
+source("D:/OneDrive - CGIAR/Personal/Personalresearch/Colleagues/Abellac/DSSAT_Spatialisation/PDSSAT/Nigeria/Codes/Tillage.R")
+source("D:/OneDrive - CGIAR/Personal/Personalresearch/Colleagues/Abellac/DSSAT_Spatialisation/PDSSAT/Nigeria/Codes/Harvesting_Details.R") 
+source("D:/OneDrive - CGIAR/Personal/Personalresearch/Colleagues/Abellac/DSSAT_Spatialisation/PDSSAT/Nigeria/Codes/Automatic_Management.R")
+source("D:/OneDrive - CGIAR/Personal/Personalresearch/Colleagues/Abellac/DSSAT_Spatialisation/PDSSAT/Nigeria/Codes/Simulation_controls.R")
+source("D:/OneDrive - CGIAR/Personal/Personalresearch/Colleagues/Abellac/DSSAT_Spatialisation/PDSSAT/Nigeria/Codes/Treatment.R")
+file.edit("D:/OneDrive - CGIAR/Personal/Personalresearch/Colleagues/Abellac/DSSAT_Spatialisation/PDSSAT/Nigeria/Codes/join_ama_sim.R")# Run it 
+source("D:/OneDrive - CGIAR/Personal/Personalresearch/Colleagues/Abellac/DSSAT_Spatialisation/PDSSAT/Nigeria/Codes/FILEX.R")
+
